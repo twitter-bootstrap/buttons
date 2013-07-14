@@ -6,7 +6,7 @@ components: component.json
 	@component install --dev
 
 buttons.css: buttons.less variables.less \
-		mixins.less close.less button-groups.less
+		mixins.less button-groups.less
 	@lessc buttons.less >buttons.css
 
 clean:
