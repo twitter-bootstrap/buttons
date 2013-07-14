@@ -2,7 +2,7 @@
   "name": "buttons",
   "repo": "twitter-bootstrap/buttons",
   "description": "Do more with buttons. Control button states or create groups of buttons for more components like toolbars.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "twitter",
     "bootstrap",
