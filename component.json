@@ -1,0 +1,20 @@
+{
+  "name": "buttons",
+  "repo": "twitter-bootstrap/buttons",
+  "description": "Do more with buttons. Control button states or create groups of buttons for more components like toolbars.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "twitter-bootstrap/core": "*"
+  },
+  "development": {},
+  "license": "Apache",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "buttons.css"
+  ]
+}
